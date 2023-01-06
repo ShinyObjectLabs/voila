@@ -1,0 +1,17 @@
+{
+  "name": "@locowd/voila",
+  "version": "0.0.1-alpha.0",
+  "description": "Beginner-friendly JavaScript framework for visual developers.",
+  "main": "voila.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LOCOWD/voila.git"
+  },
+  "author": "LOCOWD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LOCOWD/voila/issues"
+  },
+  "homepage": "https://locowd.gitbook.io/voila/"
+}
