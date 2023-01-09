@@ -1,6 +1,6 @@
 {
   "name": "@locowd/voila",
-  "version": "0.0.1-alpha.1",
+  "version": "0.0.1-alpha.2",
   "description": "Beginner-friendly JavaScript framework for visual developers.",
   "main": "voila.js",
   "scripts": {},
